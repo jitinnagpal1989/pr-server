@@ -1,0 +1,17 @@
+{
+  "name": "pr-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "azure-devops-node-api": "^7.2.0",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "vso-node-api": "^6.5.0"
+  }
+}
